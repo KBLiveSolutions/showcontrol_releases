@@ -5,5 +5,5 @@ If launching the app gives you a "File is damaged" warning, copy these lines in 
 
 ```bash
 xattr -dr com.apple.quarantine "/Applications/Show Control.app"  
-  open "/Applications/Show Control.app"
+open "/Applications/Show Control.app"
 ```
