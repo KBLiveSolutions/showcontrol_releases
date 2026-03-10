@@ -9,7 +9,7 @@ open "/Applications/Show Control.app"
 ```
 
 <!-- AUTO-GENERATED-RELEASES:START -->
-_Auto-updated: 2026-03-10 09:56 UTC_
+_Auto-updated: 2026-03-10 10:14 UTC_
 
 ## Show Control App
 - `0.3.12` (2026-03-08) — [release](https://github.com/KBLiveSolutions/showcontrol_releases/releases/tag/v0.3.12) · [asset](https://github.com/KBLiveSolutions/showcontrol_releases/releases/download/v0.3.12/showcontrol_filesystem_v0.3.1.uf2)
@@ -30,4 +30,7 @@ _Auto-updated: 2026-03-10 09:56 UTC_
 
 ## Filesystem
 - `0.3.1` (2026-03-08) — [release](https://github.com/KBLiveSolutions/showcontrol_releases/releases/tag/filesystem-v0.3.1) · [asset](https://github.com/KBLiveSolutions/showcontrol_releases/releases/download/filesystem-v0.3.1/showcontrol_filesystem_v0.3.1.uf2)
+
+## Remote Script
+- `0.2.0` (2026-03-10) — [release](https://github.com/KBLiveSolutions/showcontrol_releases/releases/tag/script-v0.2.0) · [asset](https://github.com/KBLiveSolutions/showcontrol_releases/releases/download/script-v0.2.0/showcontrol_remote_script_v0.2.0.zip)
 <!-- AUTO-GENERATED-RELEASES:END -->
