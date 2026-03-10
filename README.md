@@ -9,7 +9,7 @@ open "/Applications/Show Control.app"
 ```
 
 <!-- AUTO-GENERATED-RELEASES:START -->
-_Auto-updated: 2026-03-10 21:52 UTC_
+_Auto-updated: 2026-03-10 21:53 UTC_
 
 ## Show Control App
 - `0.2.7` (2026-03-09) — [release](https://github.com/KBLiveSolutions/showcontrol_releases/releases/tag/v0.2.7) · [asset](https://github.com/KBLiveSolutions/showcontrol_releases/releases/download/v0.2.7/Show.Control.0.2.4.dmg)
