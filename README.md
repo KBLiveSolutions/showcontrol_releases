@@ -9,12 +9,13 @@ open "/Applications/Show Control.app"
 ```
 
 <!-- AUTO-GENERATED-RELEASES:START -->
-_Auto-updated: 2026-03-10 22:00 UTC_
+_Auto-updated: 2026-03-12 17:24 UTC_
 
 ## Show Control App
 - `0.2.10` (2026-03-10) — [release](https://github.com/KBLiveSolutions/showcontrol_releases/releases/tag/v0.2.10) · [asset](https://github.com/KBLiveSolutions/showcontrol_releases/releases/download/v0.2.10/Show.Control.0.2.10.dmg)
 
 ## Firmware
+- `0.3.16` (2026-03-12) — [release](https://github.com/KBLiveSolutions/showcontrol_releases/releases/tag/firmware-v0.3.16) · [asset](https://github.com/KBLiveSolutions/showcontrol_releases/releases/download/firmware-v0.3.16/showcontrol_firmware_v0.3.16.uf2)
 - `0.3.15` (2026-03-10) — [release](https://github.com/KBLiveSolutions/showcontrol_releases/releases/tag/firmware-v0.3.15) · [asset](https://github.com/KBLiveSolutions/showcontrol_releases/releases/download/firmware-v0.3.15/showcontrol_firmware_v0.3.15.uf2)
 
 ## Filesystem
